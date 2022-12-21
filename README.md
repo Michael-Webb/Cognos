@@ -1,2 +1,2 @@
 # Cognos
-Cognos Custom Controls I developed or modified
+Cognos Extensions, tools, and Custom Controls to help report developers
